@@ -21,5 +21,5 @@ First, I used Python to take data from a "dirty" csv file in order to turn it in
 ![ETL after image](/Queries/data_after.png)
 
 Next, I planned the connections between the csv data files to prepare before loading the data into SQL:
-![DB mapping image](/ERD_Images/crowdfunding_db_relationships.png)
+![DB mapping image](/ERD%20Images/crowdfunding_db_relationships.png)
 
