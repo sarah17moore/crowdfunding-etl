@@ -23,3 +23,7 @@ First, I used Python to take data from a "dirty" csv file in order to turn it in
 Next, I planned the connections between the csv data files to prepare before loading the data into SQL:
 ![DB mapping image](/ERD%20Images/crowdfunding_db_relationships.png)
 
+Finally, a few queries were performed:
+![Crowdfunding query](/Queries/crowdfunding_query.png)
+
+*This is fake data for a classwork example*
